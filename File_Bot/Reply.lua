@@ -6,7 +6,7 @@ TextReply = '[مطور السورس](t.me/TTITITl)'
 send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
-if text == 'رسول' or text == 'رسول' then
+if text == 'سند' or text == 'سند' then
 TextReply = '[ مطور السورس ](t.me/TTITITl)'
 send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
