@@ -591,5 +591,5 @@ local function games(msg)
     
     end
     return {
-    KYLIE = games
+    KAITO = games
     }
