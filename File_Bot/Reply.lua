@@ -32,7 +32,7 @@ send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
 if text == 'تمام' then
-TextReply = 'تدۅم ياࢪبيہ'
+TextReply = 'تـــــد୨ومࣩ يަـاࠗ رب߬༽'
 send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
@@ -122,7 +122,7 @@ send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
 if text == 'انجب' then
-TextReply = 'صاࢪ حبيہَ'
+TextReply = 'مـا اكلك حياتـي لتعب نفـسك😔😹𖤧'
 send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
@@ -247,7 +247,7 @@ send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
 if text == 'ههههه' then
-TextReply = 'دايمۿہ انشااݪلۿ'
+TextReply = 'اطلق ضحـكة قسم ☺️🌾༼'
 send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
