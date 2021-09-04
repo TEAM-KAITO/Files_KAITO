@@ -122,7 +122,7 @@ send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
 if text == 'انجب' then
-TextReply = 'مـا اكلك حياتـي لتعب نفـسك😔😹𖤧'
+TextReply = 'صار حبيبي ع راسـي انتـه𖤛'
 send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
