@@ -27,7 +27,7 @@ send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
 if text == 'شلونك' then
-TextReply = 'تمامہ ۅنتۿہ ؏ـمࢪيہ'
+TextReply = 'تمام وانته عمغي〰'
 send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
