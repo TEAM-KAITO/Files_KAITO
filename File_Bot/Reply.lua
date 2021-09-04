@@ -37,7 +37,7 @@ send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
 if text == 'هلاو' then
-TextReply = 'ﮪـݪاوات حبيبيہ.'
+TextReply = 'هلــوات كلـبي نورتنـه𖤶.'
 send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
@@ -47,22 +47,22 @@ send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
 if text == 'هاي' then
-TextReply = 'ههاياتہ يبعدِ حيݪييہ'
+TextReply = 'هــايات يبعـد حيـلي𖤹'
 send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
 if text == 'اريد اكبل' then
-TextReply = 'انيہ ۿـم اࢪيد اڪبݪ قابݪ ࢪبيہ وحد'
+TextReply = 'انـي هـم اريـد اكبل ربـي وحد😜😹⏝'
 send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
 if text == 'لتزحف' then
-TextReply = 'دعوفه يزحف شعليك بي'
+TextReply = 'اي مو زاحـف عالصـغيرة🙂😹凸'
 send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
 if text == 'كلخرا' then
-TextReply = 'ماڪݪك פــبيبيہ'
+TextReply = 'مـا اكلك حياتـي لتعب نفـسك😔😹𖤧'
 send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
